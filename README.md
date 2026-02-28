@@ -10,8 +10,6 @@ careguide-medical-support/
 2.script.js
 3.style.css             
 4.README.md
-# Architecture Diagram
-[View Architecture Diagram](Architectural-diagram.png)
 # Individual Participant - Tina Ann Thomas
 
 # Project Overview
@@ -149,6 +147,6 @@ CareGuide is an emergency guidance tool and does not replace professional medica
 In life-threatening situations, always call emergency services immediately.
 
 # Commits
-AI tools used- ChatGPT , Gemini
+AI tools used- ChatGPT , Gemini.
 
 
