@@ -11,7 +11,7 @@ careguide-medical-support/
 3.style.css             
 4.README.md
 # Architecture Diagram
-[View Architecture Diagram](docs/Architectural-diagram.png)
+[View Architecture Diagram](Architectural-diagram.png)
 # Individual Participant - Tina Ann Thomas
 
 # Project Overview
