@@ -6,11 +6,10 @@ Run commands:
 cd careguide-medical-support
 # Folder Structure
 careguide-medical-support/
-│
-├── index.html        
-├── script.js
-├── style.css             
-└── README.md
+1.index.html        
+2.script.js
+3.style.css             
+4.README.md
 # Architecture Diagram
 [View Architecture Diagram](docs/Architectural-diagram.png)
 # Individual Participant - Tina Ann Thomas
