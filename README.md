@@ -12,27 +12,7 @@ careguide-medical-support/
 ├── style.css             
 └── README.md
 # Architecture Diagram
-[User] 
-   |
-   v
-[Frontend UI]
-   |  -- District Selection --> Populate City Dropdown
-   |  -- Symptom Selection
-   v
-[Logic Layer: JS]
-   |  -- Validate input (district + symptom required)
-   |  -- Filter Hospitals (district + optional city + dept)
-   |  -- Sort emergency if high severity
-   v
-[Data Layer: keralaHospitals + symptomConfig]
-   |
-   v
-[Display Layer]
-   |  -- Alert Message
-   |  -- Department Info
-   |  -- Hospital Cards (Contacts + Google Maps)
-   
-[User]
+[View Architecture Diagram](docs/Architectural-diagram.png)
 # Individual Participant - Tina Ann Thomas
 
 # Project Overview
