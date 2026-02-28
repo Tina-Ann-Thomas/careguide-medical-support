@@ -6,25 +6,23 @@ Run commands:
 cd careguide-medical-support
 # Folder Structure
 careguide-medical-support/
+# Project Screenshots
 
-1.Architectural diagram.png
+## Architectural Diagram
+![Architectural Diagram](Architectural diagram.png)
 
-2.README.md
+## Webpage Screenshots
+### Screenshot 1
+![Webpage Screenshot 1](Webpage pic 1.png)
 
-3.Webpage pic 1.png
+### Screenshot 2
+![Webpage Screenshot 2](webpage pic 2.png)
 
-4.gmap redirecting pic.png
+### Screenshot 3
+![Webpage Screenshot 3](webpage pic 3.png)
 
-5.index.html
-
-6.script.js
-
-7.style.css
-
-8.webpage pic 2.png
-
-9.webpage pic 3.png
-
+## Google Maps Redirect Example
+![GMap Redirect](gmap redirecting pic.png)
 # Individual Participant - Tina Ann Thomas
 
 # Project Overview
