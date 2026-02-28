@@ -1,5 +1,41 @@
 # careguide-medical-support
 CareGuide – A smart emergency support web application that evaluates symptom severity and suggests the appropriate medical department and nearby hospitals with direct contact and Google Maps integration.When every minute matters, CareGuide provides structured guidance and fast emergency recommendations.
+# Installation 
+Clone the repository:
+```bash
+git clone https://github.com/tina-ann-thomas/careguide-medical-support.git
+Run commands: 
+cd careguide-medical-support
+# Folder Structure
+careguide-medical-support/
+│
+├── index.html        
+├── script.js
+├── style.css             
+└── README.md
+# Architecture Diagram
+[User] 
+   |
+   v
+[Frontend UI]
+   |  -- District Selection --> Populate City Dropdown
+   |  -- Symptom Selection
+   v
+[Logic Layer: JS]
+   |  -- Validate input (district + symptom required)
+   |  -- Filter Hospitals (district + optional city + dept)
+   |  -- Sort emergency if high severity
+   v
+[Data Layer: keralaHospitals + symptomConfig]
+   |
+   v
+[Display Layer]
+   |  -- Alert Message
+   |  -- Department Info
+   |  -- Hospital Cards (Contacts + Google Maps)
+   
+[User]
+# Individual Participant - Tina Ann Thomas
 
 # Project Overview
 
@@ -132,5 +168,9 @@ Clear department guidance
 Quick hospital access
 # Disclaimer
 CareGuide is an emergency guidance tool and does not replace professional medical diagnosis.
+
+# Code
+
+
 In life-threatening situations, always call emergency services immediately.
 
